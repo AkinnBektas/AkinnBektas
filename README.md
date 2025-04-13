@@ -12,5 +12,6 @@ Hello, my name is Akin Bektas. I am a passionate programmer with a strong intere
 <a href="https://linkedin.com/in/akin-bektas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/aknbkts_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-   
+<br> ![](https://github-readme-streak-stats.herokuapp.com/?user=AkinnBektas&theme=great-gatsby&hide_border=false)<br/>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=AkinnBektas&show_icons=true&theme=radical)
