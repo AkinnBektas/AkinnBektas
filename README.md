@@ -1,21 +1,61 @@
 ![gojo-satoru-gojo](https://github.com/user-attachments/assets/a4f75d98-aade-492e-9caa-94225e9f06ea)
-![gojo-satoru-gojo](https://github.com/user-attachments/assets/7faa017c-a2d0-4481-a992-ba02badb9c2e)
 
 
 ### ✨&nbsp; About Me
 Hello, my name is Akin Bektas. I am a passionate programmer with a strong interest in developing my skills and knowledge in the field. Since my childhood, I have been fascinated by the power of programming to create and innovate. I am constantly seeking new challenges and opportunities to grow ahnd learn. I am excited to connect with other professionals in the industry and share my experiences and insights.
 
-- 🔭 &nbsp;I’m currently studying on Eskişehir Osmangazi Univercity
-- 🌱 &nbsp;I’m currently learning Machine Learning, Python
-- 💬 &nbsp;Ask me about anything related to Living in Turkey
-- ⚡ &nbsp;Fun fact: I ❤️ 🐶s and PC Gaming 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkinnBektas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkinnBektas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
- 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://linkedin.com/in/akin-bektas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://instagram.com/aknbkts_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+###
 
-<br> ![](https://github-readme-streak-stats.herokuapp.com/?user=AkinnBektas&theme=great-gatsby&hide_border=false)<br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=AkinnBektas&show_icons=true&theme=radical)
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/akin-bektas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/aknbkts_/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="3000times" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AkinnBektas/AkinnBektas/output/snake.svg" alt="Snake animation" />
+
