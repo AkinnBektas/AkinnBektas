@@ -59,3 +59,5 @@ Hello, my name is Akin Bektas. I am a passionate programmer with a strong intere
 
 <img src="https://raw.githubusercontent.com/AkinnBektas/AkinnBektas/output/snake.svg" alt="Snake animation" />
 
+###
+
