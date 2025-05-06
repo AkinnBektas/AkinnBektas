@@ -1,3 +1,7 @@
+![gojo-satoru-gojo](https://github.com/user-attachments/assets/a4f75d98-aade-492e-9caa-94225e9f06ea)
+![gojo-satoru-gojo](https://github.com/user-attachments/assets/7faa017c-a2d0-4481-a992-ba02badb9c2e)
+
+
 ### ✨&nbsp; About Me
 Hello, my name is Akin Bektas. I am a passionate programmer with a strong interest in developing my skills and knowledge in the field. Since my childhood, I have been fascinated by the power of programming to create and innovate. I am constantly seeking new challenges and opportunities to grow ahnd learn. I am excited to connect with other professionals in the industry and share my experiences and insights.
 
