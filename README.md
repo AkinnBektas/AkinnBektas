@@ -1,5 +1,6 @@
-![gojo-satoru-gojo](https://github.com/user-attachments/assets/a4f75d98-aade-492e-9caa-94225e9f06ea)
-
+<div align="Center" >
+  <img width ="850" height="470" src="https://github.com/user-attachments/assets/a4f75d98-aade-492e-9caa-94225e9f06ea"/>
+</div>
 
 ### ✨&nbsp; About Me
 Hello, my name is Akin Bektas. I am a passionate programmer with a strong interest in developing my skills and knowledge in the field. Since my childhood, I have been fascinated by the power of programming to create and innovate. I am constantly seeking new challenges and opportunities to grow and learn. I am excited to connect with other professionals in the industry and share my experiences and insights.
