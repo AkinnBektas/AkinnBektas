@@ -1,5 +1,5 @@
 <div align="Center" >
-  <img width ="850" height="470" src="https://github.com/user-attachments/assets/a4f75d98-aade-492e-9caa-94225e9f06ea"/>
+  <img width ="850" height="470" src="tenor.gif"/>
 </div>
 
 ### ✨&nbsp; About Me
